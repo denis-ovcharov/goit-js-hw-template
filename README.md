@@ -1,1 +1,2 @@
-# goit-js-hw-template
+# goit-js-hw
+
